@@ -1,4 +1,4 @@
-package my.ex.ch02
+package ch02
 
 import io.kotest.core.spec.style.FunSpec
 import io.kotest.matchers.shouldBe
